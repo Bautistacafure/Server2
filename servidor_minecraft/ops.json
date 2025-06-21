@@ -4,5 +4,17 @@
     "name": "BAUCAF",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "76f644c5-adfb-3e46-8d5f-37a8e8cf7f3d",
+    "name": "Cristotrus",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1381b5ad-05ed-3f9d-85f7-6f7ce76747fe",
+    "name": "cristrotus",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
