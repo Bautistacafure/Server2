@@ -148,3 +148,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jun2025 00:48:52.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BAUCAF: Gave 1 [Enchanted Book] to BAUCAF]
 [23Jun2025 00:50:04.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BAUCAF: Gave 1 [Bow] to BAUCAF]
 [23Jun2025 00:54:33.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BAUCAF: Teleported BAUCAF to -2804.500000, 87.500000, 999.500000]
+[23Jun2025 00:54:40.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BAUCAF has made the advancement [Call For Adventure]
+[23Jun2025 00:54:46.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5565ms or 111 ticks behind
+[23Jun2025 00:55:31.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BAUCAF has made the advancement [Take Aim]
+[23Jun2025 00:56:06.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BAUCAF: Teleported BAUCAF to -2853.500000, 79.500000, 1200.500000]
+[23Jun2025 00:56:30.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BAUCAF lost connection: Disconnected
+[23Jun2025 00:56:30.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BAUCAF left the game
+[23Jun2025 00:56:54.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Jun2025 00:56:54.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Jun2025 00:56:54.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Jun2025 00:56:54.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Jun2025 00:56:54.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Jun2025 00:56:55.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Jun2025 00:56:55.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Jun2025 00:56:55.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Jun2025 00:56:55.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Jun2025 00:56:55.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Jun2025 00:56:55.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Jun2025 00:56:55.665] [Server thread/INFO] [Framework/]: Unloading server configs...
+[23Jun2025 00:56:55.667] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[23Jun2025 00:56:55.669] [Server thread/INFO] [Framework/]: Finished unloading server configs
