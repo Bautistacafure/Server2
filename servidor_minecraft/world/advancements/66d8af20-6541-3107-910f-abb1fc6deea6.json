@@ -788,9 +788,12 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "sand_house_medium_2": "2025-06-21 20:39:50 +0000",
+      "acacia_house_medium_3": "2025-06-24 02:07:12 +0000",
       "cherry_house_medium_2": "2025-06-21 19:00:44 +0000",
+      "jungle_house_small_1": "2025-06-24 02:12:24 +0000",
       "oak_house_small_2": "2025-06-21 18:09:11 +0000",
-      "oak_house_medium_2": "2025-06-21 18:11:24 +0000"
+      "oak_house_medium_2": "2025-06-21 18:11:24 +0000",
+      "sand_castle_tiny_1": "2025-06-24 02:15:31 +0000"
     },
     "done": false
   },
@@ -2165,6 +2168,42 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-06-23 00:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-06-24 02:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-24 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-06-24 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-06-24 02:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-24 02:14:22 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:turtle_kingdom": {
+    "criteria": {
+      "sand_castle_tiny_1": "2025-06-24 02:15:31 +0000"
     },
     "done": true
   },
